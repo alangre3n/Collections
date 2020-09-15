@@ -38,6 +38,6 @@ public class Main {
 
         System.out.println(newList);
         System.out.println(newList2);
-        System.out.println();
+
     }
 }
